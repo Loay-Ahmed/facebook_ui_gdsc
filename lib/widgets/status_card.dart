@@ -17,7 +17,7 @@ class StatusCard extends StatelessWidget {
           decoration: const BoxDecoration(
             image: DecorationImage(
               image: NetworkImage(
-                "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp4013968.jpg&f=1&nofb=1&ipt=cb09b4f6f93ce0cd40a67d5f207e5ac4daf5d17bd2460d4ae2f2de9c376df03b&ipo=images",
+                "https://wallpaperaccess.com/full/1163657.jpg",
               ),
               fit: BoxFit.fill,
             ),
@@ -39,7 +39,7 @@ class StatusCard extends StatelessWidget {
           decoration: BoxDecoration(
             image: const DecorationImage(
               image: NetworkImage(
-                "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Ydq6FnqXD_5Ptecd31eT-wHaEK%26pid%3DApi&f=1&ipt=b8530765d912cd78bbbaf437d62b3b578a91b0a89323f4b2f064edd04ef050f0&ipo=images",
+                "http://getwallpapers.com/wallpaper/full/c/7/1/460702.jpg",
               ),
               fit: BoxFit.cover,
             ),

@@ -103,7 +103,7 @@ class Post extends StatelessWidget {
               decoration: const BoxDecoration(
                 image: DecorationImage(
                   image: NetworkImage(
-                    "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn2.vectorstock.com%2Fi%2F1000x1000%2F81%2F46%2Fhello-world-code-vector-22928146.jpg&f=1&nofb=1&ipt=f6c782e1827ccb8e8ed4615639aac6902a8d2cb301a8905ae17b87cbe8f4fe4e&ipo=images",
+                    "https://steemitimages.com/DQmNeaK6jbPQmGcoBaRRaRToKmWHnYE8kJvmTJLWvVfdUq7/helloworld.jpg",
                   ),
                   fit: BoxFit.cover,
                 ),
